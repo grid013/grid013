@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology,(web developer,software developer)
 - 🌱 I’m currently learning (javascript and python)
 - 💞️ I’m looking to collaborate on everything!
-- 📫 How to reach me (gridikore42@gail.com)
+- 📫 How to reach me (gridikore42@gmail.com)
 
 <!---
 grid013/grid013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
